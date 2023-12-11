@@ -1,6 +1,3 @@
-<p>just a comment</p>
-
-
 console.log("welcome to the BEAT");
 
 
