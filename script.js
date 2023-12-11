@@ -1,4 +1,4 @@
-console.log("welcome to the BEAT");
+console.log("welcome to THE BEAT");
 
 //Initialisation the variables//
 let audioIndex = 0;
