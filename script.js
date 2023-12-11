@@ -1,5 +1,8 @@
-<p>just a cmnt</p>
-console.log("welcome to my spotify");
+<p>just a comment</p>
+
+
+console.log("welcome to the BEAT");
+
 
 //Initialisation the variables//
 let audioIndex = 0;
